@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Thanks for stopping in. I'm hustling my way through a full-stack web development bootcamp and working on building my coding skills. Have a look at my projects and feel free to reach out with ideas.
+
+Look forward connecting!
+
+
 <!--
 **mwoodervin/mwoodervin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
