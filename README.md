@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for stopping by. I'm working my way through a full-stack web development bootcamp, focused on building my coding skills. Have a look at my projects and feel free to reach out with ideas.
+Thanks for stopping by. I'm working my way through a full-stack web development bootcamp. Have a look at my projects and feel free to reach out with ideas.
 
 Look forward connecting!
 
